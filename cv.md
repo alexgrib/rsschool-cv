@@ -6,7 +6,7 @@ Skills:
 
 IOS: Swift
 Android tools: Android SDK, ADB
-Web: JavaScripts, HTML, CSS, SASS, Nginx
+Web: JavaScripts, HTML, CSS, SASS, Nginx, Angular, Vue.js, Flex
 Other tools: Git, Bitbucket, VMware Workstation, Virtual Box
 Operating Systems: Windows, Linux, MacOS
 Other: MySQL, Linux
