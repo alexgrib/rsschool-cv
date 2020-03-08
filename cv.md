@@ -1,6 +1,6 @@
 Aliaksandr Hryb
 
-+375257959143, sashagrib96@gmail.com, Minsk,Belarus
++375257959143, +375292995204 sashagrib96@gmail.com, Minsk,Belarus
 
 Skills:
 
