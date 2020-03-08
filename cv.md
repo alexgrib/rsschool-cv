@@ -3,7 +3,6 @@ Aliaksandr Hryb
 +375257959143, +375292995204 sashagrib96@gmail.com, Minsk,Belarus
 
 Skills:
-
 IOS: Swift
 Android tools: Android SDK, ADB
 Web: JavaScripts, HTML, CSS, SASS, Nginx, Angular, Vue.js, Flex
@@ -12,7 +11,6 @@ Operating Systems: Windows, Linux, MacOS
 Other: MySQL, Linux
 
 Experience:
-
 Dec 2017 - June 2018: Tesidex LTD - Web-developer: Participated in the project to create a mobile application
 for the company "Sushi Vesla". The project is a mobile application bild on Ionic
 
